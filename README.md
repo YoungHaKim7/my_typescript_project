@@ -65,7 +65,7 @@ Mode                 LastWriteTime         Length Name
 
 -a---        2023-02-03 오후 12:48            321 main.js
 -a---        2023-02-03 오후 12:48            274 main.ts
--a---        2023-02-03 오후 12:35             25 README.md
+-a---        2023-02-03 오후 12:46             25 README.md
 
 PS D:\hello_typescript> node main.js
 
