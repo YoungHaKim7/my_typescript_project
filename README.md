@@ -26,3 +26,7 @@ npm install -g typescript@next
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#typescript
 
+
+# essential TypeScript
+
+https://www.programming-books.io/essential/typescript/
