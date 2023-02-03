@@ -13,6 +13,10 @@
 :LspInstall typescript-language-server
 ```
 
+https://github.com/neoclide/coc-tsserver
+
+<br>
+
 # my_typescript_project
 
 Installing
