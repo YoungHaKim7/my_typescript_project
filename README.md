@@ -1,3 +1,18 @@
+# vim/neovim LSP seting
+
+## Install & In your vim/neovim, run command:
+
+```
+// coc install
+:CocInstall coc-tsserver
+
+
+// neovim
+:TSInstall typescript
+
+:LspInstall typescript-language-server
+```
+
 # my_typescript_project
 
 Installing
