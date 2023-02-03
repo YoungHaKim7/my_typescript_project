@@ -54,17 +54,18 @@ Mode                 LastWriteTime         Length Name
 -a---        2023-02-03 오후 12:35             25 main.ts
 -a---        2023-02-03 오후 12:35             25 README.md
 
-PS D:\hello_typescript> nvim .\main.ts
+
+PS D:\hello_typescript> tsc main.ts
+
 PS D:\hello_typescript> ls
 
     Directory: D:\hello_typescript
 
 Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a---        2023-02-03 오후 12:47            243 main.ts
--a---        2023-02-03 오후 12:35             25 README.md
 
-PS D:\hello_typescript> tsc main.ts
+-a---        2023-02-03 오후 12:48            321 main.js
+-a---        2023-02-03 오후 12:48            274 main.ts
+-a---        2023-02-03 오후 12:35             25 README.md
 
 PS D:\hello_typescript> node main.js
 
