@@ -7,7 +7,7 @@
 :CocInstall coc-tsserver
 
 
-// neovim
+// TSInstall LspInstall
 :TSInstall typescript
 
 :LspInstall typescript-language-server
