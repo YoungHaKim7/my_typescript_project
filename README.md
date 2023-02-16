@@ -92,6 +92,15 @@ Hello, world ! TypeScript
 
 ```
 
+# TypeScriptlang 공식 핸드북 영문 버젼 English Version.
+
+https://www.typescriptlang.org/docs/handbook/intro.html
+
+# TypeScriptlang 영문버젼 번역본(출처 : Nomad Coders)
+
+https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31
+
+
 # Microsoft TypeScript Tutorials
 
  https://github.com/microsoft/TypeScript
