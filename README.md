@@ -92,28 +92,30 @@ Hello, world ! TypeScript
 
 ```
 
-# TypeScriptlang 공식 핸드북 영문 버젼 English Version.
+# TypeScript 공식 문서 모음 & Tutorial 자료 모음
 
-https://www.typescriptlang.org/docs/handbook/intro.html
+  - TypeScriptlang 공식 핸드북 영문 버젼 English Version.
 
-# TypeScriptlang 영문버젼 번역본(출처 : Nomad Coders)
+    - https://www.typescriptlang.org/docs/handbook/intro.html
 
-https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31
+  - TypeScriptlang 영문버젼 번역본(출처 : Nomad Coders)
 
-# TypeScript Design-Patterns (출처 : Nomad Coders)
+    - https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31
 
-https://refactoring.guru/design-patterns/typescript
+  - TypeScript Design-Patterns (출처 : Nomad Coders)
 
-# Microsoft TypeScript Tutorials
+    - https://refactoring.guru/design-patterns/typescript
 
- https://github.com/microsoft/TypeScript
+  -  Microsoft TypeScript Tutorials
 
-
-# EbookFoundation (TypeScript)
-
-https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#typescript
+     - https://github.com/microsoft/TypeScript
 
 
-# essential TypeScript
+  - EbookFoundation (TypeScript)(무료)
 
-https://www.programming-books.io/essential/typescript/
+    - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#typescript
+
+
+  - essential TypeScript
+
+    - https://www.programming-books.io/essential/typescript/
