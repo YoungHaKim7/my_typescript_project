@@ -100,6 +100,9 @@ https://www.typescriptlang.org/docs/handbook/intro.html
 
 https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31
 
+# TypeScript Design-Patterns (출처 : Nomad Coders)
+
+https://refactoring.guru/design-patterns/typescript
 
 # Microsoft TypeScript Tutorials
 
