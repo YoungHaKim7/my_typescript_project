@@ -119,3 +119,7 @@ Hello, world ! TypeScript
   - essential TypeScript
 
     - https://www.programming-books.io/essential/typescript/
+    
+  - TypeScript 핸드북
+  
+    - https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
