@@ -123,3 +123,7 @@ Hello, world ! TypeScript
   - TypeScript 핸드북
   
     - https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+    
+  - todo앱 만들기 언어별 다 있음 연습하기 좋다.!
+  
+    - https://todomvc.com/
