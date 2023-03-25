@@ -123,6 +123,10 @@ Hello, world ! TypeScript
   - TypeScript 핸드북
   
     - https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+   
+  - TypeScript 5.0 한글 
+    
+    - https://velog.io/@hustle-dev/TypeScript-5.0-%EB%B2%88%EC%97%AD
     
   - todo앱 만들기 언어별 다 있음 연습하기 좋다.!
   
