@@ -40,6 +40,10 @@ npm install -g typescript
 npm install -g typescript@next
 ```
 
+# helix Lsp setting
+
+https://github.com/YoungHaKim7/rust_vim_setting/tree/main/helix_settings
+
 # Hello World TypeScript
 
 main.ts
