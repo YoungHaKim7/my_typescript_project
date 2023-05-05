@@ -17,6 +17,10 @@ https://github.com/neoclide/coc-tsserver
 
 <br>
 
+- vim setting
+
+https://github.com/pangloss/vim-javascript
+
 # my_typescript_project
 
 Installing
