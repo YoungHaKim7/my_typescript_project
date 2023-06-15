@@ -209,3 +209,9 @@ Hello, world ! TypeScript
     - https://todomvc.com/
     
     - https://github.com/tastejs/todomvc
+
+<hr>
+
+# VS Code tips — Parameter type inlay hints
+
+https://youtu.be/E71eT_bxnAI
