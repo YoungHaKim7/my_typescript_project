@@ -1,15 +1,32 @@
-import express, { Express, Request, Response } from "express";
-import dotenv from "dotenv";
 
-dotenv.config();
+const a: number = "string";
+console.log(a);
+a.push(5);
 
-const app: Express = express();
-const port = process.env.PORT;
+const b: String = "test upper";
+b.toUpperCase();
+console.log(b);
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Express + TypeScript Server");
-});
 
-app.listen(port, () => {
-  console.log(`🚀 ⚡️[server]: Server is running at http://localhost:${port}`);
-});
+type Player<E> = {
+    name: string
+    extraInfo: E
+}
+
+type NicoExtra = {
+    favFood:string
+}
+
+type NicoPlayer = Player<NicoExtra>
+
+const nico: NicoPlayer = {
+    name: "nico",
+    extraInfo: {
+        favFood: "kimchi"
+    }
+}
+
+const lynn: Player<null> = {
+    name: "lynn",
+    extraInfo: null
+}

@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/app.ts",
   "scripts": {
-    "start": "tsc src/app.ts"
+    "start": "tsc src/app.ts",
+    "run": "tsc src/generic.ts"
+
   },
   "author": "",
   "license": "MIT",
