@@ -1,24 +1,24 @@
-# 강제로 format 해주기
+---
+marp: true
+title : Marp
+paginate: true
+theme : aqua
 
-```
-$ npx prettier --write \app.ts
-```
+class:
+- invert
 
-<hr>
+---
 
-# Effective TypeScript
+# TypeScript inlay-hint Setting으로 타입 보기
 
-https://github.com/danvk/effective-typescript
+![Screenshot 2023-07-02 at 5 44 09 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/08e37038-7c39-466d-81d8-0e64dbd0d7bc)
 
-# Prettier & Eslint
+---
 
-https://velog.io/@das01063/VSCode%EC%97%90%EC%84%9C-ESLint%EC%99%80-Prettier-TypeScript-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+# VSCODE Setting JSON 으로 세팅
 
-# VSCode Setting JSON
+```json
 
-- settings.JSON
-```
-{
   "workbench.colorCustomizations": {
     "editorError.foreground": "#3f1010", // squiggly line
     "editorError.border": "#ffffff", // additional border under squiggly line
@@ -44,10 +44,14 @@ https://velog.io/@das01063/VSCode%EC%97%90%EC%84%9C-ESLint%EC%99%80-Prettier-Typ
   "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
   "typescript.inlayHints.variableTypes.enabled": true,
   // ~~~~~~~~~~~~~~
-
   // auto fmt & format
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
-  "editor.formatOnType": true,
+  "editor.formatOnType": true
 }
 ```
+
+---
+
+
+---
