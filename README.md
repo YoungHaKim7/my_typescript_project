@@ -1,3 +1,9 @@
+# Typescript - 질서정연한 JavaScript 자바스크립트 개발자를 위한 Opentutorials.org
+
+https://opentutorials.org/module/6309
+
+<hr>
+
 # vim/neovim LSP seting
 
 ## Install & In your vim/neovim, run command:
@@ -20,6 +26,8 @@ https://github.com/neoclide/coc-tsserver
 - vim setting
 
 https://github.com/pangloss/vim-javascript
+
+<hr>
 
 # my_typescript_project
 
