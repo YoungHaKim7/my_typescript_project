@@ -2,6 +2,52 @@
 
 https://opentutorials.org/module/6309
 
+# Nodejs 설치
+- Typescript를 사용하기 전에, 먼저 Node.js를 설치해야 합니다. LTS(Long Term Support) 버전을 설치하세요.
+
+https://nodejs.org/
+
+# TypeScript 설치
+Node.js를 설치한 후, 다음 명령어로 Typescript를 설치합니다.
+
+
+```
+npm install typescript --save-dev
+```
+
+# 프로젝트 초기화
+
+- Typescript 프로젝트를 초기화하려면 다음 명령어를 실행하세요. 이 명령어는 tsconfig.json 파일을 생성합니다.
+
+```
+npx tsc --init
+```
+
+- tsconfig.json 파일을 열고 다음 설정을 추가하세요. 이 설정은 "src" 폴더에 있는 모든 TypeScript 파일을 컴파일하고, 결과를 "build" 폴더에 저장합니다.
+
+
+```
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "outDir": "./build"
+  }
+}
+```
+# TypeScript 컴파일
+ 
+- Typescript 컴파일러를 사용하려면 다음 명령어를 실행하세요.
+
+```
+npx tsc
+```
+
+- Typescript 파일의 변경사항을 실시간으로 감지하고 컴파일하려면 다음 명령어를 실행하세요.
+
+```
+npx tsc --watch
+```
+
 <hr>
 
 # vim/neovim LSP seting
