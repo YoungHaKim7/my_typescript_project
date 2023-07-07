@@ -1,6 +1,12 @@
+# The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
+
+https://github.com/gibbok/typescript-book
+
 # Typescript - 질서정연한 JavaScript 자바스크립트 개발자를 위한 Opentutorials.org
 
 https://opentutorials.org/module/6309
+
+<hr>
 
 # Nodejs 설치
 - Typescript를 사용하기 전에, 먼저 Node.js를 설치해야 합니다. LTS(Long Term Support) 버전을 설치하세요.
