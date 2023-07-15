@@ -251,6 +251,8 @@ Hello, world ! TypeScript
 
     - https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#typescript
 
+  - TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
+    - https://youtu.be/gieEQFIfgYc
 
   - essential TypeScript
 
