@@ -318,3 +318,9 @@ https://youtu.be/E71eT_bxnAI
   "editor.formatOnType": true
 }
 ```
+
+- hex color
+
+  - https://htmlcolorcodes.com/
+ 
+  <br>
