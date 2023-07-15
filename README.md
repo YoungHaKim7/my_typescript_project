@@ -274,6 +274,9 @@ Hello, world ! TypeScript
 
     - https://opentutorials.org/module/6309
 
+  - TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
+    - https://youtu.be/gieEQFIfgYc
+
 <hr>
 
 <hr>
