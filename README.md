@@ -1,3 +1,13 @@
+# C#의 창시자 & TypeScript 창시자  , 앤더스 헤일즈버그 (Anders Hejlsberg
+
+https://www.csharpstudy.com/Story/Article/2
+
+https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4
+
+<br>
+
+<hr>
+
 # Nodejs 설치
 - Typescript를 사용하기 전에, 먼저 Node.js를 설치해야 합니다. LTS(Long Term Support) 버전을 설치하세요.
 
