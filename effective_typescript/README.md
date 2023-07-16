@@ -16,6 +16,13 @@ $ tsc main.ts
 tsc main.ts -w
 ```
 
+# Tailwind CSS TypeScript (1)
+
+https://flowbite.com/docs/getting-started/typescript/
+
+<br>
+
+
 <hr>
 
 # 강제로 format 해주기
