@@ -16,6 +16,18 @@ $ tsc main.ts
 tsc main.ts -w
 ```
 
+# tsconfig 기본 세팅 루틴(tsc --init)
+
+```bash
+tsc --init
+```
+
+- watch
+
+```bash
+tsc -w
+```
+
 # Tailwind CSS TypeScript (1)
 
 https://flowbite.com/docs/getting-started/typescript/
