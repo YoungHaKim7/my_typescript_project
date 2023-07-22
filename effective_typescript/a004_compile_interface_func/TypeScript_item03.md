@@ -225,4 +225,45 @@ https://hyunseob.github.io/2016/10/17/typescript-interface/
 
 ---
 
-# 
+# interface(공식문서)
+
+https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html 
+
+
+- Types
+  - If you’re reading this guide, you probably already roughly know what a type in TypeScript is. To be more explicit, though, a type is introduced with:
+
+    - A type alias declaration (```type sn = number | string;```)
+    - An interface declaration (```interface I { x: number[]; }```)
+    - A class declaration (```class C { }```)
+    - An enum declaration (```enum E { A, B, C }```)
+    - An ```import``` declaration which refers to a type
+    - Each of these declaration forms creates a new type name.
+
+---
+
+- interface 예시(TypeScript)
+
+```typescript
+
+class Foo {
+    x: number;
+    constructor(x: number) {
+        this.x = x;
+    }
+}
+// ... elsewhere ...
+interface Foo {
+    y: number;
+}
+let a: Foo = new Foo(10); // This will create an instance of the class Foo with x = 10
+a.y = 20; // This will add the property y to the instance of the class Foo
+console.log(a.x + a.y); // OK
+
+```
+```bash
+$ node .\interface.js
+30
+```
+
+---
