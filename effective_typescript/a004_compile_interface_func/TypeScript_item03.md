@@ -212,3 +212,17 @@ makeSomeNoiseWith(new Person()); // OK
 https://hyunseob.github.io/2016/10/17/typescript-interface/
 
 ---
+
+# Interface 알아 보기(TypeScript)
+
+https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html
+
+- 공식문서에 잘 나옴
+
+인터페이스는 클래스에서 구현부가 빠졌다고 이해하면 편하다. 즉, 어떠한 객체가 이러이러한 프로퍼티 혹은 메소드를 가진다고 선언하는 것이다. 실질적인 구현은 이를 구현한다고 선언하는 클래스에 맡긴다.
+
+https://hyunseob.github.io/2016/10/17/typescript-interface/
+
+---
+
+# 
