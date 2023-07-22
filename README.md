@@ -8,6 +8,12 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 
 <hr>
 
+# TypeScript 공식 문서 Doc
+
+https://www.typescriptlang.org/docs/
+
+<hr>
+
 # Nodejs 설치
 - Typescript를 사용하기 전에, 먼저 Node.js를 설치해야 합니다. LTS(Long Term Support) 버전을 설치하세요.
 
