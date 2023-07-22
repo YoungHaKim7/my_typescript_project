@@ -14,6 +14,19 @@ https://www.typescriptlang.org/docs/
 
 <hr>
 
+# tsconfig 기본 세팅 루틴(tsc --init)
+
+```bash
+tsc --init
+```
+
+- watch
+
+```bash
+tsc -w
+```
+
+
 # Nodejs 설치
 - Typescript를 사용하기 전에, 먼저 Node.js를 설치해야 합니다. LTS(Long Term Support) 버전을 설치하세요.
 
