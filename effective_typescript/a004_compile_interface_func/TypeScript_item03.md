@@ -242,7 +242,39 @@ https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html
 
 ---
 
-- interface 예시(TypeScript)
+- interface 예시(TypeScript) interface01.ts
+
+```typescript
+interface Person {
+  firstName: string;
+  lastName: string;
+}
+ 
+function greeter(person: Person) {
+  return "Hello, " + person.firstName + " " + person.lastName;
+}
+ 
+let user = { firstName: "Jane", lastName: "User" };
+ 
+console.log(user)
+
+```
+---
+
+# Result  (interface01.ts)
+우리의 샘플을 더 개발해 보겠습니다. 여기서는 이름과 성 필드가 있는 개체를 설명하는 인터페이스를 사용합니다. TypeScript에서는 내부 구조가 호환되는 경우 두 가지 유형이 호환됩니다. 이를 통해 명시적인 구현 조항 없이 인터페이스가 필요로 하는 모양을 갖추는 것만으로 인터페이스를 구현할 수 있습니다.
+Let’s develop our sample further. Here we use an interface that describes objects that have a firstName and lastName field. In TypeScript, two types are compatible if their internal structure is compatible. This allows us to implement an interface just by having the shape the interface requires, without an explicit implements clause.
+
+```bash
+node interface01.js
+{ firstName: 'Jane', lastName: 'User' }
+
+```
+https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
+
+---
+
+- interface 예시(TypeScript) interface02.ts
 
 ```typescript
 
@@ -265,5 +297,54 @@ console.log(a.x + a.y); // OK
 $ node .\interface.js
 30
 ```
+
+---
+- Erased Structural Types
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html
+
+```typescript
+interface Pointlike {
+  x: number;
+  y: number;
+}
+interface Named {
+  name: string;
+}
+ 
+function logPoint(point: Pointlike) {
+  console.log("x = " + point.x + ", y = " + point.y);
+}
+ 
+function logName(x: Named) {
+  console.log("Hello, " + x.name);
+}
+ 
+const obj = {
+  x: 0,
+  y: 0,
+  name: "Origin",
+};
+ 
+logPoint(obj);
+logName(obj);
+```
+---
+
+- Result
+
+```bash
+$ node interface_erased_structural.js
+x = 0, y = 0
+Hello, Origin
+```
+Erased Structural Types
+In TypeScript, objects are not of a single exact type. For example, if we construct an object that satisfies an interface, we can use that object where that interface is expected even though there was no declarative relationship between the two.
+지워진 구조 유형
+TypeScript에서 개체는 하나의 정확한 유형이 아닙니다. 예를 들어, 우리가 인터페이스를 만족시키는 객체를 구성한다면, 우리는 그 둘 사이에 선언적인 관계가 없었음에도 불구하고 그 인터페이스가 예상되는 곳에서 그 객체를 사용할 수 있습니다.
+
+---
+
+# The end
+
 
 ---
