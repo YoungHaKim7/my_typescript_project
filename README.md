@@ -12,6 +12,10 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 
 https://www.typescriptlang.org/docs/
 
+# Cheatsheets for experienced React developers getting started with TypeScript
+
+https://github.com/typescript-cheatsheets/react
+
 <hr>
 
 # tsconfig 기본 세팅 루틴(tsc --init)
