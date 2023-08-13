@@ -3,6 +3,10 @@ https://github.com/danvk/effective-typescript
 
 <hr>
 
+# 같은 스터디한 맴버Effective TypeScript
+
+https://github.com/LikeRudin/learning-typescript
+
 <br>
 
 # TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
