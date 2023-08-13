@@ -1,3 +1,10 @@
+# Effective TypeScript
+https://github.com/danvk/effective-typescript
+
+<hr>
+
+<br>
+
 # TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours
 
 https://youtu.be/gieEQFIfgYc
