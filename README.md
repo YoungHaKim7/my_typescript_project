@@ -18,6 +18,12 @@ https://github.com/typescript-cheatsheets/react
 
 <hr>
 
+# 강제로 자동정렬  해 주기
+
+```bash
+npx prettier --write \main.ts
+```
+
 # tsconfig 기본 세팅 루틴(tsc --init)
 
 ```bash
