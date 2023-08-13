@@ -1,6 +1,8 @@
 # 참고 자료
 
-https://hyunseob.github.io/2016/10/17/typescript-interface/
+https://www.typescriptlang.org/docs/handbook/2/narrowing.html 
+
+https://github.com/danvk/effective-typescript
 
 # tsc --init
 
