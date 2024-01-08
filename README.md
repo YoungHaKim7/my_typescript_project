@@ -8,6 +8,14 @@ https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-na
 
 <hr>
 
+# 타입스크립트를 공부하고 싶은 당신에게 (learn-ts.org)
+
+- https://news.hada.io/topic?id=12526&utm_source=weekly&utm_medium=email&utm_campaign=202401
+  - https://www.learn-ts.org/
+
+
+<hr>
+
 # TypeScript 공식 문서 Doc
 
 https://www.typescriptlang.org/docs/
