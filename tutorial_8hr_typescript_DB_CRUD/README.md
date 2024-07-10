@@ -9,6 +9,11 @@
 
 https://youtu.be/gieEQFIfgYc
 
+# TypeScript 타입 스크립트 2hr
+- https://youtu.be/SpwzRDUQ1GI?si=dADE8lYQM7OiehBt
+
+<hr>
+
 # TypeScript Compile
 
 
